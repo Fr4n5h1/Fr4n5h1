@@ -100,7 +100,7 @@ Herramienta que calcula la hidratación diaria según peso corporal.
 
 # 🐍 Contribution Snake
 
-![snake](https://github.com/fr4nsh1/github-contribution-grid-snake/blob/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/fr4nsh1/github-contribution-grid-snake/output/github-contribution-grid-snake.svg)
 
 ---
 
