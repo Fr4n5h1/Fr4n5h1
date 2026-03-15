@@ -98,6 +98,9 @@ Herramienta que calcula la hidratación diaria según peso corporal.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fr4nsh1\&layout=compact\&theme=tokyonight)
 
 ---
+## 🐍 Contribution Snake
+
+![snake](https://github.com/fr4nsh1/github-contribution-grid-snake/blob/output/github-contribution-grid-snake.svg)
 
 # 👀 Visitas al perfil
 
