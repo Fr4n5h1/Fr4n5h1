@@ -1,18 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00C6FF&height=220&section=header&text=Francisco%20Garcia%20%7C%20Fr4nsh1&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00C6FF&height=220&section=header&text=Francisco%20Garcia%20%7C%20Fr4n5h1&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
 💻 Diseñador web | 🔐 Aprendiendo ciberseguridad | 🐧 Linux & automatización
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=fr4nsh1&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=fr4n5h1&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
 # 👋 Sobre mí
 
-Soy **Francisco García (Fr4nsh1)**.
+Soy **Francisco García (Fr4n5h1)**.
 
 Trabajo desarrollando proyectos web y actualmente estoy ampliando conocimientos en:
 
@@ -54,7 +54,7 @@ https://fr4nsh.github.io/water-intake-calculator/
 
 Herramienta que calcula la hidratación diaria según peso corporal.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fr4nsh1&repo=water-intake-calculator&theme=tokyonight)](https://github.com/fr4nsh1/water-intake-calculator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fr4n5h1&repo=water-intake-calculator&theme=tokyonight)](https://github.com/fr4n5h1/water-intake-calculator)
 
 ---
 
@@ -92,15 +92,15 @@ Herramienta que calcula la hidratación diaria según peso corporal.
 
 # 📊 Estadísticas GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fr4nsh1&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fr4n5h1&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fr4nsh1&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fr4n5h1&layout=compact&theme=tokyonight)
 
 ---
 
 # 🐍 Contribution Snake
 
-![snake](https://raw.githubusercontent.com/fr4nsh1/github-contribution-grid-snake/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/fr4n5h1/github-contribution-grid-snake/output/github-contribution-grid-snake.svg)
 
 ---
 
